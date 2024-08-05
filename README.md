@@ -13,11 +13,8 @@ Flutter, Dart, ChatGPT API <br>
 <p align="center">
 <img src="previews/preview16.jpg" alt="drawing" width="269px" />
 <img src="previews/preview17.jpg" alt="drawing" width="270px" />
-<img src="previews/preview18.jpg" alt="drawing" width="269px" />
-<img src="previews/preview19.jpg" alt="drawing" width="269px" />
-<img src="previews/preview20.jpg" alt="drawing" width="270px" />
 <img src="previews/preview21.jpg" alt="drawing" width="269px" />
-<img src="previews/preview22.jpg" alt="drawing" width="269px" />
+ 
 <img src="previews/preview23.jpg" alt="drawing" width="270px" />
 <img src="previews/preview24.jpg" alt="drawing" width="269px" />
 <img src="previews/preview25.jpg" alt="drawing" width="269px" />
