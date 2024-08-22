@@ -13,15 +13,15 @@ Flutter, Dart, ChatGPT API <br>
 <p align="center">
 <img src="previews/preview16.jpg" alt="drawing" width="269px" />
 <img src="previews/preview17.jpg" alt="drawing" width="270px" />
-<img src="previews/preview21.jpg" alt="drawing" width="269px" />
  
-<img src="previews/preview23.jpg" alt="drawing" width="270px" />
-<img src="previews/preview24.jpg" alt="drawing" width="269px" />
-<img src="previews/preview25.jpg" alt="drawing" width="269px" />
-<img src="previews/preview1.png" alt="drawing" width="270px" />
-<img src="previews/preview2.png" alt="drawing" width="270px" />
-<img src="previews/preview3.png" alt="drawing" width="269px" />
-<img src="previews/preview4.png" alt="drawing" width="270px" />
+![4](https://github.com/user-attachments/assets/8dc0d08f-7837-4e5f-9d8f-ad0cefc76c78)
+![5](https://github.com/user-attachments/assets/dd116192-80de-41ff-8787-50896b3420c1)
+![6](https://github.com/user-attachments/assets/eed609c7-8ea7-427e-be83-73e61ea43254)
+![1](https://github.com/user-attachments/assets/8cd86f0d-73e4-4ddf-9ba4-3ef723299f61)
+![2](https://github.com/user-attachments/assets/e321b1ec-d388-48ac-84cc-e6b3bff14937)
+
+![3](https://github.com/user-attachments/assets/8456ecc6-d581-4bf2-870f-0f3b71bf2631)
+
 <img src="previews/preview5.png" alt="drawing" width="270px" />
 <img src="previews/preview6.png" alt="drawing" width="269px" />
 <img src="previews/preview8.png" alt="drawing" width="270px" />
